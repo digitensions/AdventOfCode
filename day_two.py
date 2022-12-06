@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+
+'''
+Day two AdventOfCode2022
+'''
+
 SCORES1 = {
           #Rock     Paper     Scissors
     'X': (['A', 4], ['B', 1], ['C', 7]), # Rock
